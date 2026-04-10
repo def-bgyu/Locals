@@ -1,0 +1,6 @@
+faster-whisper
+chromadb
+anthropic
+streamlit
+python-dotenv
+yt-dlp
